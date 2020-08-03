@@ -1560,6 +1560,12 @@
 .flag-icon-un.flag-icon-squared {
   background-image: url(../flags/1x1/un.svg);
 }
+.flag-icon-xa {
+  background-image: url(../flags/4x3/xa.svg);
+}
+.flag-icon-xa.flag-icon-squared {
+  background-image: url(../flags/1x1/xa.svg);
+}
 .flag-icon-xk {
   background-image: url(../flags/4x3/xk.svg);
 }
